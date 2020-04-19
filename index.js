@@ -1,5 +1,5 @@
 // Create an XOR gate function
-
+/*
 function XORGate(a, b) {
   if (typeof a === "boolean" && typeof b === "boolean") {
     return (a && !b) || (!a && b);
@@ -22,3 +22,4 @@ function truthTable(a,b,c) {
 
 console.log(truthTable(A,B,C));
 
+*/
